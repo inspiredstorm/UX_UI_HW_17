@@ -109,7 +109,6 @@ footer {
 
 .headerBox {
     display: flex;
-    flex-basis: 100%;
     justify-content: space-between;
     flex-wrap: wrap;
     margin-left: 1%;
